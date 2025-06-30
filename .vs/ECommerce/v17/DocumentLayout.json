@@ -63,8 +63,7 @@
               "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:09:11.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T14:09:11.355Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:08:17.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T14:08:17.429Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\InvoiceFile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:07:30.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T14:07:30.775Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\File.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:06:51.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T14:06:51.44Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:05:57.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T14:05:57.499Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:02:24.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T14:02:24.925Z"
             }
           ]
         }
