@@ -1851,11 +1851,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\WebUI\\WebUI.csproj",
-      "projectName": "WebUI",
-      "projectPath": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\WebUI\\WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj",
+      "projectName": "ECommerce.WebUI",
+      "projectPath": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj",
       "packagesPath": "C:\\Users\\firatisildak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\WebUI\\obj\\",
+      "outputPath": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
