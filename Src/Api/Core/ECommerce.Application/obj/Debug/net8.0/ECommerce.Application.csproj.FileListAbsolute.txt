@@ -1,0 +1,6 @@
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Core\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.csproj.AssemblyReference.cache
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Core\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Core\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.AssemblyInfoInputs.cache
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Core\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.AssemblyInfo.cs
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Core\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Core\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.sourcelink.json

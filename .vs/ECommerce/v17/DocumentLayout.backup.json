@@ -1,34 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\",
+  "WorkspaceRootPath": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerce\\src\\api\\core\\ecommerce.domain\\entities\\productimagefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:src\\api\\core\\ecommerce.domain\\entities\\productimagefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\commands\\product\\removeproduct\\removeproductcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\commands\\product\\removeproduct\\removeproductcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerce\\src\\api\\core\\ecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:src\\api\\core\\ecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\commands\\product\\removeproduct\\removeproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\commands\\product\\removeproduct\\removeproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerce\\src\\api\\core\\ecommerce.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:src\\api\\core\\ecommerce.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\commands\\product\\removeproduct\\removeproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\commands\\product\\removeproduct\\removeproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerce\\src\\api\\core\\ecommerce.domain\\entities\\invoicefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:src\\api\\core\\ecommerce.domain\\entities\\invoicefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\commands\\product\\createproduct\\createproductcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\commands\\product\\createproduct\\createproductcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerce\\src\\api\\core\\ecommerce.domain\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:src\\api\\core\\ecommerce.domain\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\commands\\product\\createproduct\\createproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\commands\\product\\createproduct\\createproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerce\\src\\api\\core\\ecommerce.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:src\\api\\core\\ecommerce.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\commands\\product\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\commands\\product\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerce\\src\\api\\core\\ecommerce.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:src\\api\\core\\ecommerce.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\commands\\appuser\\createuser\\createusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\commands\\appuser\\createuser\\createusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\commands\\appuser\\createuser\\createusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\commands\\appuser\\createuser\\createusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\commands\\appuser\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\commands\\appuser\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,87 +51,119 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductImageFile.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\ProductImageFile.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\ProductImageFile.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\ProductImageFile.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\ProductImageFile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Title": "RemoveProductCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandResponse.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandResponse.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:09:50.321Z",
+              "WhenOpened": "2025-07-01T12:22:08.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Title": "RemoveProductCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandRequest.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandRequest.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:09:11.355Z"
+              "WhenOpened": "2025-07-01T11:59:54.729Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Title": "RemoveProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandHandler.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:08:17.429Z"
+              "WhenOpened": "2025-07-01T11:58:04.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "InvoiceFile.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\InvoiceFile.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\InvoiceFile.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\InvoiceFile.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\InvoiceFile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Title": "CreateProductCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandResponse.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandResponse.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:07:30.775Z"
+              "WhenOpened": "2025-07-01T11:55:47.421Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "File.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\File.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\File.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\File.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\File.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Title": "CreateProductCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandRequest.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandRequest.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:06:51.44Z"
+              "WhenOpened": "2025-07-01T11:48:56.868Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Customer.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\Customer.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:05:57.499Z"
+              "WhenOpened": "2025-07-01T11:46:52.859Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommerce\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "CreateUserCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandResponse.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandResponse.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:02:24.925Z"
+              "WhenOpened": "2025-07-01T11:44:51.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUserCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandRequest.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandRequest.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:39:50.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:38:33.462Z",
+              "EditorCaption": ""
             }
           ]
         }
