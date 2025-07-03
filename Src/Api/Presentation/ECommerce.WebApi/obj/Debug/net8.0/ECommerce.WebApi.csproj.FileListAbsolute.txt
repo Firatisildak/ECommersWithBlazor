@@ -1,0 +1,8 @@
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\obj\Debug\net8.0\ECommerce.WebApi.csproj.AssemblyReference.cache
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\obj\Debug\net8.0\ECommerce.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\obj\Debug\net8.0\ECommerce.WebApi.AssemblyInfoInputs.cache
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\obj\Debug\net8.0\ECommerce.WebApi.AssemblyInfo.cs
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\obj\Debug\net8.0\ECommerce.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\obj\Debug\net8.0\ECommerce.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\obj\Debug\net8.0\ECommerce.WebApi.sourcelink.json
