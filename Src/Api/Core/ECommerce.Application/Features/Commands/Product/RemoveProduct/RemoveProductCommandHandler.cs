@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using ECommerce.Application.Repositories;
+using MediatR;
 
 namespace ECommerce.Application.Features.Commands.Product.RemoveProduct;
 

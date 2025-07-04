@@ -1,4 +1,6 @@
-﻿namespace ECommerce.Application.Abstractions.Storage;
+﻿using Microsoft.AspNetCore.Http;
+
+namespace ECommerce.Application.Abstractions.Storage;
 
 public interface IStorage
 {
