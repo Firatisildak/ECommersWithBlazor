@@ -1034,6 +1034,6 @@ C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebU
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\refint\ECommerce.WebUI.dll
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\ECommerce.WebUI.pdb
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\ref\ECommerce.WebUI.dll
-C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\compressed\vuhpgm8go9-953ealu5n3.gz
-C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\compressed\wsc012rtsy-ijjswrcs6t.gz
-C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\compressed\ac6lgj354t-h8hv1iyb3a.gz
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\compressed\vuhpgm8go9-xctr95vrxu.gz
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\compressed\wsc012rtsy-986pwl7oer.gz
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\compressed\ac6lgj354t-hj00wqoy35.gz

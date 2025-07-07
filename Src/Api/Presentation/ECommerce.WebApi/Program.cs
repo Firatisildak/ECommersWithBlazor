@@ -1,5 +1,10 @@
+using ECommerce.Application;
+using ECommerce.Persistence;
+
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddPersistenceServices();
+builder.Services.AddApplicationServices();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
