@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\commands\\appuser\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\commands\\appuser\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D057BC17-8933-4593-A304-D241FD97D117}|Src\\Api\\Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\infrastructure\\ecommerce.persistence\\contexts\\ecommerceapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D057BC17-8933-4593-A304-D241FD97D117}|Src\\Api\\Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:src\\api\\infrastructure\\ecommerce.persistence\\contexts\\ecommerceapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\validators\\products\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\validators\\products\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D7B645C-2306-4078-AD62-4CCB3EA9C9F4}|Src\\Api\\Presentation\\ECommerce.WebApi\\ECommerce.WebApi.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\presentation\\ecommerce.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D7B645C-2306-4078-AD62-4CCB3EA9C9F4}|Src\\Api\\Presentation\\ECommerce.WebApi\\ECommerce.WebApi.csproj|solutionrelative:src\\api\\presentation\\ecommerce.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\viewmodels\\products\\vm_update_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\viewmodels\\products\\vm_update_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\viewmodels\\products\\vm_create_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\viewmodels\\products\\vm_create_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\requestparameters\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\requestparameters\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D7B645C-2306-4078-AD62-4CCB3EA9C9F4}|Src\\Api\\Presentation\\ECommerce.WebApi\\ECommerce.WebApi.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\presentation\\ecommerce.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7B645C-2306-4078-AD62-4CCB3EA9C9F4}|Src\\Api\\Presentation\\ECommerce.WebApi\\ECommerce.WebApi.csproj|solutionrelative:src\\api\\presentation\\ecommerce.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,68 +34,40 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Presentation\\ECommerce.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Src\\Api\\Presentation\\ECommerce.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Presentation\\ECommerce.WebApi\\appsettings.json",
+              "RelativeToolTip": "Src\\Api\\Presentation\\ECommerce.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T13:48:06.92Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateUserCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Title": "ECommerceAPIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.Persistence\\Contexts\\ECommerceAPIDbContext.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Infrastructure\\ECommerce.Persistence\\Contexts\\ECommerceAPIDbContext.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.Persistence\\Contexts\\ECommerceAPIDbContext.cs",
+              "RelativeToolTip": "Src\\Api\\Infrastructure\\ECommerce.Persistence\\Contexts\\ECommerceAPIDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:27:21.767Z",
+              "WhenOpened": "2025-07-07T13:37:12.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Vm_Update_Product.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\ViewModels\\Products\\Vm_Update_Product.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\ViewModels\\Products\\Vm_Update_Product.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\ViewModels\\Products\\Vm_Update_Product.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\ViewModels\\Products\\Vm_Update_Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Presentation\\ECommerce.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Presentation\\ECommerce.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Presentation\\ECommerce.WebApi\\Program.cs",
+              "RelativeToolTip": "Src\\Api\\Presentation\\ECommerce.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:23:32.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VM_Create_Product.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\ViewModels\\Products\\VM_Create_Product.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\ViewModels\\Products\\VM_Create_Product.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\ViewModels\\Products\\VM_Create_Product.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\ViewModels\\Products\\VM_Create_Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:22:41.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateProductValidator.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Validators\\Products\\CreateProductValidator.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Validators\\Products\\CreateProductValidator.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Validators\\Products\\CreateProductValidator.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Validators\\Products\\CreateProductValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:20:39.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pagination.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\RequestParameters\\Pagination.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\RequestParameters\\Pagination.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\RequestParameters\\Pagination.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\RequestParameters\\Pagination.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:16:48.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T13:12:35.114Z"
             }
           ]
         }

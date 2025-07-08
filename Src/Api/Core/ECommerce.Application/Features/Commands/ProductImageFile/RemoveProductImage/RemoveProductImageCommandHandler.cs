@@ -1,5 +1,6 @@
 ﻿using ECommerce.Application.Repositories;
 using MediatR;
+using Microsoft.EntityFrameworkCore;
 
 namespace ECommerce.Application.Features.Commands.ProductImageFile.RemoveProductImage;
 

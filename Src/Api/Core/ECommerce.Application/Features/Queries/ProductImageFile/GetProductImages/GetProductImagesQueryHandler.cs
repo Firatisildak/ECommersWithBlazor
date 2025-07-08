@@ -1,5 +1,6 @@
 ﻿using ECommerce.Application.Repositories;
 using MediatR;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
 namespace ECommerce.Application.Features.Queries.ProductImageFile.GetProductImages;

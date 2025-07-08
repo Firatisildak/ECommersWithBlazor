@@ -1,11 +1,22 @@
 using ECommerce.Application;
+using ECommerce.Application.Validators.Products;
+using ECommerce.Infrastructure;
+using ECommerce.Infrastructure.Filters;
+using ECommerce.Infrastructure.Services.Storage.Local;
 using ECommerce.Persistence;
+using FluentValidation.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddPersistenceServices();
 builder.Services.AddApplicationServices();
-builder.Services.AddControllers();
+builder.Services.AddApplicationServices();
+//builder.Services.AddStorage();
+builder.Services.AddStorage<LocalStorage>();
+//builder.Services.AddStorage<AzureStorage>();
+builder.Services.AddControllers(options => options.Filters.Add<ValidationFilter>()).AddFluentValidation(configuration => configuration
+.RegisterValidatorsFromAssemblyContaining<CreateProductValidator>()).ConfigureApiBehaviorOptions(options => options.SuppressModelStateInvalidFilter = true);
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

@@ -1,5 +1,6 @@
 ﻿using ECommerce.Application.Repositories;
 using MediatR;
+using P = ECommerce.Domain.Entities;
 
 namespace ECommerce.Application.Features.Queries.Product.GetByIdProduct;
 
