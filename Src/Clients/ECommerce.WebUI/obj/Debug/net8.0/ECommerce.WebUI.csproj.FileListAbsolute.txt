@@ -1024,9 +1024,6 @@ C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebU
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\compressed\3avasbgstx-tptq2av103.gz
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\compressed\6tw35d53i8-lfu7j35m59.gz
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\compressed\782kisv5lv-oyz0vx2fzb.gz
-C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\compressed\vuhpgm8go9-vibkh191mj.gz
-C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\compressed\wsc012rtsy-v6tq20z4gy.gz
-C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\compressed\ac6lgj354t-er72mt3lwh.gz
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\staticwebassets.development.json
@@ -1037,3 +1034,6 @@ C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebU
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\refint\ECommerce.WebUI.dll
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\ECommerce.WebUI.pdb
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\ref\ECommerce.WebUI.dll
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\compressed\vuhpgm8go9-0n9mahnkqa.gz
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\compressed\wsc012rtsy-fcjk60cwdt.gz
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\compressed\ac6lgj354t-43c04bjew2.gz
