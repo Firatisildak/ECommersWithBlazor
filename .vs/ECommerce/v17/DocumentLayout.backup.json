@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D7B645C-2306-4078-AD62-4CCB3EA9C9F4}|Src\\Api\\Presentation\\ECommerce.WebApi\\ECommerce.WebApi.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\presentation\\ecommerce.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D7B645C-2306-4078-AD62-4CCB3EA9C9F4}|Src\\Api\\Presentation\\ECommerce.WebApi\\ECommerce.WebApi.csproj|solutionrelative:src\\api\\presentation\\ecommerce.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D057BC17-8933-4593-A304-D241FD97D117}|Src\\Api\\Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\infrastructure\\ecommerce.persistence\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D057BC17-8933-4593-A304-D241FD97D117}|Src\\Api\\Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:src\\api\\infrastructure\\ecommerce.persistence\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\clients\\ecommerce.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:src\\clients\\ecommerce.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,26 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Presentation\\ECommerce.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Presentation\\ECommerce.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Presentation\\ECommerce.WebApi\\Program.cs",
-              "RelativeToolTip": "Src\\Api\\Presentation\\ECommerce.WebApi\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAArwCYAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "Src\\Clients\\ECommerce.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Program.cs*",
+              "RelativeToolTip": "Src\\Clients\\ECommerce.WebUI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T13:18:24.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.Persistence\\Configuration.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Infrastructure\\ECommerce.Persistence\\Configuration.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.Persistence\\Configuration.cs",
-              "RelativeToolTip": "Src\\Api\\Infrastructure\\ECommerce.Persistence\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T12:55:03.318Z",
+              "WhenOpened": "2025-07-10T08:25:09.55Z",
               "EditorCaption": ""
             }
           ]
