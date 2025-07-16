@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\clients\\ecommerce.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:src\\clients\\ecommerce.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\clients\\ecommerce.webui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:src\\clients\\ecommerce.webui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\clients\\ecommerce.webui\\components\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:src\\clients\\ecommerce.webui\\components\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\clients\\ecommerce.webui\\components\\pages\\product.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:src\\clients\\ecommerce.webui\\components\\pages\\product.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\clients\\ecommerce.webui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:src\\clients\\ecommerce.webui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\clients\\ecommerce.webui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:src\\clients\\ecommerce.webui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Program.cs",
-              "RelativeDocumentMoniker": "Src\\Clients\\ECommerce.WebUI\\Program.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Program.cs",
-              "RelativeToolTip": "Src\\Clients\\ECommerce.WebUI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Src\\Clients\\ECommerce.WebUI\\Components\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Models\\Product.cs",
+              "RelativeToolTip": "Src\\Clients\\ECommerce.WebUI\\Components\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T08:25:09.55Z",
+              "WhenOpened": "2025-07-16T13:04:25.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.razor",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Pages\\Product.razor",
+              "RelativeDocumentMoniker": "Src\\Clients\\ECommerce.WebUI\\Components\\Pages\\Product.razor",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Pages\\Product.razor",
+              "RelativeToolTip": "Src\\Clients\\ECommerce.WebUI\\Components\\Pages\\Product.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T13:10:09.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Src\\Clients\\ECommerce.WebUI\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\App.razor",
+              "RelativeToolTip": "Src\\Clients\\ECommerce.WebUI\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T12:50:12.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Src\\Clients\\ECommerce.WebUI\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Src\\Clients\\ECommerce.WebUI\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T08:46:55.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Src\\Clients\\ECommerce.WebUI\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Src\\Clients\\ECommerce.WebUI\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T08:46:27.542Z",
               "EditorCaption": ""
             }
           ]
