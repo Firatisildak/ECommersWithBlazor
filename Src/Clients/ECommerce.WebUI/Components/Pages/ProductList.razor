@@ -1,0 +1,114 @@
+﻿@page "/"
+@attribute [StreamRendering]
+@using ClosedXML.Excel
+@using ECommerce.WebUI.Components.Models
+@inject HttpClient Http
+@inject IJSRuntime JS
+
+<MudButton Disabled="@exporting" @onclick="ExportToExcel" Variant="Variant.Filled" Color="Color.Info" StartIcon="@Icons.Custom.FileFormats.FileExcel">
+    @if (exporting)
+    {
+        <MudProgressCircular Class="ms-n1" Size="Size.Small" Indeterminate="true"></MudProgressCircular>
+        <MudText Class="ms-2">Processing..</MudText>
+    }
+    else
+    {
+        <MudText>Export Excel</MudText>
+    }
+</MudButton>
+
+@if (productList == null)
+{
+    <p><em>Yükleniyor...</em></p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Stock</th>
+                <th>Price</th>
+                <th>Güncelleme Tarihi</th>
+                <th>Oluşturulma Tarihi</th>
+                <th>İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in productList)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Stock</td>
+                    <td>@product.Price</td>
+                    <td>@product.UpdatedDate.ToString("dd/MM/yyyy")</td>
+                    <td>@product.CreatedDate.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        <a href="/editkamyon/@product.Id" class="btn btn-primary">Düzenle</a>
+                        <a href="/deletekamyon/@product.Id" class="btn btn-danger">Sil</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private Product[]? productList;
+    private bool exporting = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await Task.Delay(500);
+        await LoadProductData();
+    }
+
+    private async Task LoadProductData()
+    {
+        var response = await Http.GetFromJsonAsync<GetAllProductsResponse>("https://localhost:7141/api/Products");
+        productList = response?.Products?.ToArray();
+    }
+
+    private async Task<byte[]> CreateExcelFile()
+    {
+        if (productList == null)
+        {
+            await LoadProductData();
+        }
+
+        using (XLWorkbook workbook = new())
+        {
+            var worksheet = workbook.Worksheets.Add("Ürün Listesi");
+
+            worksheet.Cell(1, 1).Value = "Ürün Adı";
+            worksheet.Cell(1, 2).Value = "Stok";
+            worksheet.Cell(1, 3).Value = "Fiyat";
+            worksheet.Cell(1, 4).Value = "Güncelleme Tarihi";
+            worksheet.Cell(1, 5).Value = "Oluşturulma Tarihi";
+
+            for (int i = 0; i < productList.Length; i++)
+            {
+                var p = productList[i];
+                worksheet.Cell(i + 2, 1).Value = p.Name;
+                worksheet.Cell(i + 2, 2).Value = p.Stock;
+                worksheet.Cell(i + 2, 3).Value = p.Price;
+                worksheet.Cell(i + 2, 4).Value = p.UpdatedDate.ToString("dd/MM/yyyy");
+                worksheet.Cell(i + 2, 5).Value = p.CreatedDate.ToString("dd/MM/yyyy");
+            }
+
+            using (var stream = new MemoryStream())
+            {
+                workbook.SaveAs(stream);
+                return stream.ToArray();
+            }
+        }
+    }
+
+    private async Task ExportToExcel()
+    {
+        exporting = true;
+        var excelBytes = await CreateExcelFile();
+        await JS.InvokeVoidAsync("downloadFileFromBytes", "Product_Listesi.xlsx", excelBytes);
+        exporting = false;
+    }
+}

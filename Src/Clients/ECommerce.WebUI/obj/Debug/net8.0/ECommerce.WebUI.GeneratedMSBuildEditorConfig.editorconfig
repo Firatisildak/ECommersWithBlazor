@@ -39,8 +39,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/firatisildak/source/repos/ECommersWithBlazor/Src/Clients/ECommerce.WebUI/Components/Pages/Product.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0LnJhem9y
+[C:/Users/firatisildak/source/repos/ECommersWithBlazor/Src/Clients/ECommerce.WebUI/Components/Pages/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0TGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/firatisildak/source/repos/ECommersWithBlazor/Src/Clients/ECommerce.WebUI/Components/Pages/Weather.razor]
