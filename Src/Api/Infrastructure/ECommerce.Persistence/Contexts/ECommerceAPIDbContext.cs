@@ -7,9 +7,8 @@ using Microsoft.EntityFrameworkCore.ChangeTracking;
 
 namespace ECommerce.Persistence.Contexts;
 
-public class ECommerceAPIDbContext : IdentityDbContext<AppUser, AppRole, string>
+public class ECommerceAPIDbContext(DbContextOptions options) : IdentityDbContext<AppUser, AppRole, string>(options)
 {
-    public ECommerceAPIDbContext(DbContextOptions options) : base(options) { }
     public DbSet<Product> Products { get; set; }
     public DbSet<Order> Orders { get; set; }
     public DbSet<Customer> Customers { get; set; }
