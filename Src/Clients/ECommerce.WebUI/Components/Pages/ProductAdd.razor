@@ -1,0 +1,82 @@
+﻿@page "/addProduct"
+@attribute [StreamRendering]
+@using System.ComponentModel.DataAnnotations
+@using ECommerce.WebUI.Components.Models
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+@inject IJSRuntime JSRuntime
+
+<MudContainer MaxWidth="MaxWidth.Medium" Class="mt-6">
+    <MudPaper Class="pa-6" Elevation="10">
+        <MudText Typo="Typo.h5" Class="mb-4 text-primary">Yeni Ürün Ekle</MudText>
+
+        <MudForm @ref="form">
+            <MudTextField @bind-Value="newProduct.Name"
+                          Label="Ürün Adı"
+                          For="@(() => newProduct.Name)"
+                          Required="true"
+                          RequiredError="Ürün adı zorunludur." />
+
+            <MudNumericField @bind-Value="newProduct.Stock"
+                             Label="Stok Miktarı"
+                             For="@(() => newProduct.Stock)"
+                             Required="true"
+                             RequiredError="Stok miktarı giriniz." />
+
+            <MudNumericField T="decimal"
+                             @bind-Value="newProduct.Price"
+                             Label="Fiyat (₺)"
+                             For="@(() => newProduct.Price)"
+                             Required="true"
+                             RequiredError="Fiyat giriniz."
+                             Adornment="Adornment.Start"
+                             AdornmentIcon="@Icons.Material.Filled.AttachMoney" />
+
+            <MudStack Direction="Row" Justify="Justify.SpaceBetween" Class="mt-5">
+                <MudButton OnClick="Cancel"
+                           Variant="Variant.Outlined"
+                           Color="Color.Secondary">
+                    İptal
+                </MudButton>
+
+                <MudButton OnClick="AddProductInfo"
+                           Variant="Variant.Filled"
+                           Color="Color.Primary">
+                    Ürünü Ekle
+                </MudButton>
+            </MudStack>
+        </MudForm>
+    </MudPaper>
+</MudContainer>
+
+<MudSnackbarProvider />
+
+@code {
+    private Product newProduct = new();
+    private MudForm? form;
+
+    protected override void OnInitialized()
+    {
+        newProduct.Id = Guid.NewGuid();
+        newProduct.CreatedDate = DateTime.Now;
+    }
+
+    private async Task AddProductInfo()
+    {
+        await form!.Validate();
+
+        if (!form.IsValid)
+            return;
+
+        newProduct.UpdatedDate = DateTime.Now;
+
+        await Http.PostAsJsonAsync("https://localhost:7141/api/Products", newProduct);
+        await JSRuntime.InvokeVoidAsync("alert", "Ürün başarıyla eklendi!");
+        NavigationManager.NavigateTo("/");
+    }
+
+    private void Cancel()
+    {
+        NavigationManager.NavigateTo("/");
+    }
+}
