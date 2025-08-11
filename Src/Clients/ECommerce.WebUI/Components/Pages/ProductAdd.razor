@@ -23,7 +23,7 @@
                              Required="true"
                              RequiredError="Stok miktarı giriniz." />
 
-            <MudNumericField T="decimal"
+            <MudNumericField T="float"
                              @bind-Value="newProduct.Price"
                              Label="Fiyat (₺)"
                              For="@(() => newProduct.Price)"
@@ -31,6 +31,14 @@
                              RequiredError="Fiyat giriniz."
                              Adornment="Adornment.Start"
                              AdornmentIcon="@Icons.Material.Filled.AttachMoney" />
+
+            <MudText Typo="Typo.body1" Class="mt-4">Ürün Fotoğrafı</MudText>
+            <InputFile OnChange="OnFileSelected" accept="image/*" />
+
+            @if (selectedFile != null)
+            {
+                <MudText Typo="Typo.caption">Seçilen: @selectedFile.Name</MudText>
+            }
 
             <MudStack Direction="Row" Justify="Justify.SpaceBetween" Class="mt-5">
                 <MudButton OnClick="Cancel"
@@ -54,11 +62,18 @@
 @code {
     private Product newProduct = new();
     private MudForm? form;
+    private IBrowserFile? selectedFile;
 
     protected override void OnInitialized()
     {
         newProduct.Id = Guid.NewGuid();
         newProduct.CreatedDate = DateTime.Now;
+        newProduct.UpdatedDate = DateTime.Now;
+    }
+
+    private void OnFileSelected(InputFileChangeEventArgs e)
+    {
+        selectedFile = e.File;
     }
 
     private async Task AddProductInfo()
@@ -70,13 +85,50 @@
 
         newProduct.UpdatedDate = DateTime.Now;
 
-        await Http.PostAsJsonAsync("https://localhost:7141/api/Products", newProduct);
-        await JSRuntime.InvokeVoidAsync("alert", "Ürün başarıyla eklendi!");
+        // 1. Ürünü ekle
+        var response = await Http.PostAsJsonAsync("https://localhost:7141/api/Products", newProduct);
+        if (!response.IsSuccessStatusCode)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", "Ürün eklenirken hata oluştu.");
+            return;
+        }
+
+        // API CreateProduct endpoint'in dönüşünde Product Id yoksa
+        // burada newProduct.Id'yi kullanıyoruz (Guid zaten client'ta oluşturulmuş)
+        if (selectedFile != null)
+        {
+            // 2. Fotoğrafı yükle
+            using var content = new MultipartFormDataContent();
+            var streamContent = new StreamContent(selectedFile.OpenReadStream(5 * 1024 * 1024)); // max 5 MB
+            streamContent.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue(selectedFile.ContentType);
+            content.Add(streamContent, "Files", selectedFile.Name);
+
+            var uploadResponse = await Http.PostAsync($"https://localhost:7141/api/Products/Upload?Id={newProduct.Id}", content);
+
+            if (!uploadResponse.IsSuccessStatusCode)
+            {
+                await JSRuntime.InvokeVoidAsync("alert", "Ürün eklendi ancak fotoğraf yüklenemedi.");
+                return;
+            }
+        }
+
+        await JSRuntime.InvokeVoidAsync("alert", "Ürün ve fotoğraf başarıyla eklendi!");
         NavigationManager.NavigateTo("/");
     }
 
     private void Cancel()
     {
         NavigationManager.NavigateTo("/");
+    }
+
+    // UI'da kullandığımız Product modeli
+    public class Product
+    {
+        public Guid Id { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public int Stock { get; set; }
+        public float Price { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public DateTime UpdatedDate { get; set; }
     }
 }

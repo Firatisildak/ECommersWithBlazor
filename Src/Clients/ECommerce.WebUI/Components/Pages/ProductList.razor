@@ -1,7 +1,7 @@
 ﻿@page "/"
-@attribute [StreamRendering]
 @using ECommerce.WebUI.Components.Models
 @inject HttpClient Http
+@inject ISnackbar Snackbar
 
 <MudContainer MaxWidth="MaxWidth.False" Class="mt-6">
     <MudGrid Gutter="Size.Small">
@@ -24,39 +24,39 @@
             @foreach (var product in productList)
             {
                 <MudItem xs="12" sm="6" md="4" lg="3">
-                    <MudPaper Class="hover-glow animate__animated animate__fadeInUp" Elevation="10">
-                        <MudCard Style="height: 100%;">
-                            <MudCardMedia Image="/images/default-product.jpg" Height="160" Style="object-fit: cover;" />
-                            <MudCardContent>
-                                <MudText Typo="Typo.h6" Class="mb-1 text-primary font-bold">@product.Name</MudText>
-                                <MudText Typo="Typo.subtitle1" Color="Color.Success">
-                                    ₺@product.Price
-                                </MudText>
-                                <MudChip T="string" Color="Color.Info" Variant="Variant.Filled" Class="mt-2">
-                                    Stok: @product.Stock
-                                </MudChip>
-
-                                <MudText Typo="Typo.caption" Class="text-secondary mt-1 d-block">
-                                    Güncelleme: @product.UpdatedDate:dd.MM.yyyy
-                                </MudText>
-                            </MudCardContent>
-                            <MudCardActions Class="d-flex justify-between px-3 pb-3">
-                                <MudTooltip Text="Sepete Ekle">
-                                    <MudButton Variant="Variant.Filled" Color="Color.Primary" StartIcon="@Icons.Material.Filled.AddShoppingCart" Size="Size.Small" OnClick="() => AddToCart(product)">
-                                        Ekle
-                                    </MudButton>
-                                </MudTooltip>
-                                <MudTooltip Text="Ürünü Sil">
-                                    <MudButton Variant="Variant.Outlined" Color="Color.Error" StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small" OnClick="() => DeleteProduct(product)">
-                                        Sil
-                                    </MudButton>
-                                </MudTooltip>
-                            </MudCardActions>
-                        </MudCard>
-                    </MudPaper>
+                    <MudCard Style="height: 100%;">
+                        <MudCardMedia Image="/images/default-product.jpg" Height="160" Style="object-fit: cover;" />
+                        <MudCardContent>
+                            <MudText Typo="Typo.h6" Class="mb-1 text-primary font-bold">@product.Name</MudText>
+                            <MudText Typo="Typo.subtitle1" Color="Color.Success">
+                                ₺@product.Price
+                            </MudText>
+                            <MudChip T="string" Color="Color.Info" Variant="Variant.Filled" Class="mt-2">
+                                Stok: @product.Stock
+                            </MudChip>
+                            <MudText Typo="Typo.caption" Class="text-secondary mt-1 d-block">
+                                Güncelleme: @(product.UpdatedDate.Year > 2000 ? product.UpdatedDate.ToString("dd.MM.yyyy") : "-")
+                            </MudText>
+                        </MudCardContent>
+                        <MudCardActions Class="d-flex justify-between px-3 pb-3">
+                            <MudButton Variant="Variant.Filled" Color="Color.Primary" StartIcon="@Icons.Material.Filled.AddShoppingCart" Size="Size.Small" OnClick="() => AddToCart(product)">
+                                Ekle
+                            </MudButton>
+                            <MudButton Variant="Variant.Outlined" Color="Color.Error" StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small" OnClick="() => DeleteProduct(product)">
+                                Sil
+                            </MudButton>
+                        </MudCardActions>
+                    </MudCard>
                 </MudItem>
             }
         }
+
+        <!-- Pagination (manuel) -->
+        <MudItem xs="12" class="d-flex justify-center mt-6 gap-3">
+            <MudButton Variant="Variant.Outlined" Disabled="@(Page == 0)" OnClick="PrevPage">← Önceki</MudButton>
+            <MudText Class="mt-2">Sayfa @(Page + 1)</MudText>
+            <MudButton Variant="Variant.Filled" Disabled="@((Page + 1) * PageSize >= totalCount)" OnClick="NextPage">Sonraki →</MudButton>
+        </MudItem>
     </MudGrid>
 </MudContainer>
 
@@ -64,17 +64,40 @@
 
 @code {
     private Product[]? productList;
+    private int Page = 0;
+    private int PageSize = 8; // API örneğine göre
+    private int totalCount;
 
     protected override async Task OnInitializedAsync()
     {
-        await Task.Delay(500); // Yükleme animasyonu için gecikme
         await LoadProductData();
     }
 
     private async Task LoadProductData()
     {
-        var response = await Http.GetFromJsonAsync<GetAllProductsResponse>("https://localhost:7141/api/Products");
+        var url = $"https://localhost:7141/api/Products?page={Page}&PageSize={PageSize}";
+        Console.WriteLine($"API çağrısı: {url}");
+        var response = await Http.GetFromJsonAsync<GetAllProductsResponse>(url);
         productList = response?.Products?.ToArray();
+        totalCount = response?.TotalCount ?? 0;
+    }
+
+    private async Task PrevPage()
+    {
+        if (Page > 0)
+        {
+            Page--;
+            await LoadProductData();
+        }
+    }
+
+    private async Task NextPage()
+    {
+        if ((Page + 1) * PageSize < totalCount)
+        {
+            Page++;
+            await LoadProductData();
+        }
     }
 
     private void AddToCart(Product product)
@@ -87,5 +110,4 @@
         Snackbar.Add($"{product.Name} silindi.", Severity.Error);
     }
 
-    [Inject] ISnackbar Snackbar { get; set; } = default!;
 }

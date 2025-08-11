@@ -37,7 +37,6 @@ public class ProductsController : ControllerBase
     {
         GetByIdProductQueryResponse response = await _mediator.Send(getByIdProductQueryRequest);
         return Ok(response);
-
     }
 
     [HttpPost]

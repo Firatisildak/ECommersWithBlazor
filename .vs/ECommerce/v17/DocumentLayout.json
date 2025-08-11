@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:src\\api\\core\\ecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\clients\\ecommerce.webui\\components\\pages\\productadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:src\\clients\\ecommerce.webui\\components\\pages\\productadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\clients\\ecommerce.webui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:src\\clients\\ecommerce.webui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\clients\\ecommerce.webui\\components\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:src\\clients\\ecommerce.webui\\components\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\clients\\ecommerce.webui\\components\\models\\getallproductsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3B2BC1-0EF5-4EDA-8027-7A3B9220ED7D}|Src\\Clients\\ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:src\\clients\\ecommerce.webui\\components\\models\\getallproductsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 156,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,53 +31,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Src\\Clients\\ECommerce.WebUI\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Src\\Clients\\ECommerce.WebUI\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T12:17:59.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetAllProductsResponse.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Models\\GetAllProductsResponse.cs",
-              "RelativeDocumentMoniker": "Src\\Clients\\ECommerce.WebUI\\Components\\Models\\GetAllProductsResponse.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Models\\GetAllProductsResponse.cs",
-              "RelativeToolTip": "Src\\Clients\\ECommerce.WebUI\\Components\\Models\\GetAllProductsResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T11:21:49.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductList.razor",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Pages\\ProductList.razor",
-              "RelativeDocumentMoniker": "Src\\Clients\\ECommerce.WebUI\\Components\\Pages\\ProductList.razor",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Pages\\ProductList.razor",
-              "RelativeToolTip": "Src\\Clients\\ECommerce.WebUI\\Components\\Pages\\ProductList.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T10:59:17.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ProductAdd.razor",
               "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Pages\\ProductAdd.razor",
               "RelativeDocumentMoniker": "Src\\Clients\\ECommerce.WebUI\\Components\\Pages\\ProductAdd.razor",
               "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Clients\\ECommerce.WebUI\\Components\\Pages\\ProductAdd.razor",
               "RelativeToolTip": "Src\\Clients\\ECommerce.WebUI\\Components\\Pages\\ProductAdd.razor",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwHwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T10:59:08.594Z",
+              "WhenOpened": "2025-08-11T08:49:40.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:16:46.959Z",
               "EditorCaption": ""
             }
           ]

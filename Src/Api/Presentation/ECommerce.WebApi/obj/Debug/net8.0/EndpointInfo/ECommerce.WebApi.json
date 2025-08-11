@@ -20,7 +20,7 @@
             }
           },
           {
-            "name": "Size",
+            "name": "PageSize",
             "in": "query",
             "schema": {
               "type": "integer",

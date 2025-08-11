@@ -13,7 +13,7 @@
         "IsRequired": false
       },
       {
-        "Name": "Size",
+        "Name": "PageSize",
         "Type": "System.Int32",
         "IsRequired": false
       }

@@ -205,3 +205,4 @@ C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\EComm
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\obj\Debug\net8.0\ECommerce.WebApi.pdb
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\obj\Debug\net8.0\ECommerce.WebApi.genruntimeconfig.cache
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\obj\Debug\net8.0\ref\ECommerce.WebApi.dll
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\bin\Debug\net8.0\ECommerce.WebApi.staticwebassets.runtime.json
