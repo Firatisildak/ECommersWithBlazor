@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\abstractions\\hubs\\iproducthubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\abstractions\\hubs\\iproducthubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\abstractions\\token\\itokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\abstractions\\token\\itokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\abstractions\\hubs\\iorderhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\abstractions\\hubs\\iorderhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\abstractions\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\abstractions\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\abstractions\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\abstractions\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\abstractions\\services\\iqrcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\abstractions\\services\\iqrcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\abstractions\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\abstractions\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +43,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IProductHubService.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Hubs\\IProductHubService.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Hubs\\IProductHubService.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Hubs\\IProductHubService.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Hubs\\IProductHubService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Title": "ITokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Token\\ITokenHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Token\\ITokenHandler.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Token\\ITokenHandler.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Token\\ITokenHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T13:13:28.526Z",
+              "WhenOpened": "2025-08-14T08:06:52.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IOrderHubService.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Hubs\\IOrderHubService.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Hubs\\IOrderHubService.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Hubs\\IOrderHubService.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Hubs\\IOrderHubService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IUserService.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T13:10:34.338Z"
+              "WhenOpened": "2025-08-14T08:01:03.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IRoleService.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IRoleService.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:59:23.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQRCodeService.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IQRCodeService.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IQRCodeService.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IQRCodeService.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IQRCodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:58:19.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IProductService.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:38:53.373Z",
+              "EditorCaption": ""
             }
           ]
         }
