@@ -1,4 +1,5 @@
-﻿using ECommerce.Domain.Entities.Identity;
+﻿using ECommerce.Application.DTOs.User;
+using ECommerce.Domain.Entities.Identity;
 
 namespace ECommerce.Application.Abstractions.Services;
 

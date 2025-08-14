@@ -1,4 +1,6 @@
-﻿namespace ECommerce.Application.Abstractions.Services;
+﻿using ECommerce.Application.DTOs.Order;
+
+namespace ECommerce.Application.Abstractions.Services;
 
 public interface IOrderService
 {

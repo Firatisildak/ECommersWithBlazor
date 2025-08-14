@@ -1,4 +1,5 @@
-﻿using ECommerce.Domain.Entities;
+﻿using ECommerce.Application.ViewModels.Baskets;
+using ECommerce.Domain.Entities;
 
 namespace ECommerce.Application.Abstractions.Services;
 
