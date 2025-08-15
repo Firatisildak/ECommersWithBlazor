@@ -25,7 +25,6 @@ C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebU
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\ECommerce.WebUI.dll
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\refint\ECommerce.WebUI.dll
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\ECommerce.WebUI.pdb
@@ -54,3 +53,4 @@ C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebU
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\bin\Debug\net8.0\RBush.dll
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\bin\Debug\net8.0\SixLabors.Fonts.dll
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Clients\ECommerce.WebUI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
