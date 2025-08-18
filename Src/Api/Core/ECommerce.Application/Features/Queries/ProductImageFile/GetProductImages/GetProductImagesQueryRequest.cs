@@ -4,5 +4,5 @@ namespace ECommerce.Application.Features.Queries.ProductImageFile.GetProductImag
 
 public class GetProductImagesQueryRequest : IRequest<List<GetProductImagesQueryResponse>>
 {
-    public string Id { get; set; }
+    public string? Id { get; set; }
 }

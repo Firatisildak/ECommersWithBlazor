@@ -3,16 +3,124 @@
   "WorkspaceRootPath": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\dtos\\order\\completedorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\dtos\\order\\completedorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\appuser\\getrolestouser\\getrolestouserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\appuser\\getrolestouser\\getrolestouserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\exceptions\\usercreatefailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\exceptions\\usercreatefailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\appuser\\getrolestouser\\getrolestouserqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\appuser\\getrolestouser\\getrolestouserqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\exceptions\\passwordchangefailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\exceptions\\passwordchangefailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\appuser\\getrolestouser\\getrolestouserqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\appuser\\getrolestouser\\getrolestouserqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\appuser\\getallusers\\getallusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\appuser\\getallusers\\getallusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\appuser\\getallusers\\getallusersqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\appuser\\getallusers\\getallusersqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\appuser\\getallusers\\getallusersqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\appuser\\getallusers\\getallusersqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\authorizationendpoint\\getrolestoendpoints\\getrolestoendpointqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\authorizationendpoint\\getrolestoendpoints\\getrolestoendpointqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\authorizationendpoint\\getrolestoendpoints\\getrolestoendpointqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\authorizationendpoint\\getrolestoendpoints\\getrolestoendpointqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\authorizationendpoint\\getrolestoendpoints\\getrolestoendpointqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\authorizationendpoint\\getrolestoendpoints\\getrolestoendpointqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\basket\\getbasketitems\\getbasketitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\basket\\getbasketitems\\getbasketitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\basket\\getbasketitems\\getbasketitemsqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\basket\\getbasketitems\\getbasketitemsqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\basket\\getbasketitems\\getbasketitemsqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\basket\\getbasketitems\\getbasketitemsqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\order\\getorderbyid\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\order\\getorderbyid\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\order\\getorderbyid\\getorderbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\order\\getorderbyid\\getorderbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\order\\getorderbyid\\getorderbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\order\\getorderbyid\\getorderbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\order\\getallorders\\getallordersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\order\\getallorders\\getallordersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\order\\getallorders\\getallordersqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\order\\getallorders\\getallordersqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\order\\getallorders\\getallordersqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\order\\getallorders\\getallordersqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\role\\getroles\\getrolesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\role\\getroles\\getrolesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\role\\getroles\\getrolesqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\role\\getroles\\getrolesqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\role\\getroles\\getrolesqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\role\\getroles\\getrolesqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\role\\getrolebyid\\getrolebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\role\\getrolebyid\\getrolebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\role\\getrolebyid\\getrolebyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\role\\getrolebyid\\getrolebyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\role\\getrolebyid\\getrolebyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\role\\getrolebyid\\getrolebyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\productimagefile\\getproductimages\\getproductimagesqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\productimagefile\\getproductimages\\getproductimagesqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\productimagefile\\getproductimages\\getproductimagesqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\productimagefile\\getproductimages\\getproductimagesqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\productimagefile\\getproductimages\\getproductimagesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\productimagefile\\getproductimages\\getproductimagesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\product\\getbyidproduct\\getbyidproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\product\\getbyidproduct\\getbyidproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\product\\getbyidproduct\\getbyidproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\product\\getbyidproduct\\getbyidproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\features\\queries\\product\\getbyidproduct\\getbyidproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\features\\queries\\product\\getbyidproduct\\getbyidproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,20 +129,397 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 156,
+          "DockedWidth": 169,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CompletedOrderDTO.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\DTOs\\Order\\CompletedOrderDTO.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\DTOs\\Order\\CompletedOrderDTO.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\DTOs\\Order\\CompletedOrderDTO.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\DTOs\\Order\\CompletedOrderDTO.cs",
+              "Title": "GetRolesToUserQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetRolesToUser\\GetRolesToUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetRolesToUser\\GetRolesToUserQueryHandler.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetRolesToUser\\GetRolesToUserQueryHandler.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetRolesToUser\\GetRolesToUserQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:04:51.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetRolesToUserQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetRolesToUser\\GetRolesToUserQueryRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetRolesToUser\\GetRolesToUserQueryRequest.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetRolesToUser\\GetRolesToUserQueryRequest.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetRolesToUser\\GetRolesToUserQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:04:19.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetRolesToUserQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetRolesToUser\\GetRolesToUserQueryResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetRolesToUser\\GetRolesToUserQueryResponse.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetRolesToUser\\GetRolesToUserQueryResponse.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetRolesToUser\\GetRolesToUserQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:03:43.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllUsersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:03:03.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllUsersQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetAllUsers\\GetAllUsersQueryRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetAllUsers\\GetAllUsersQueryRequest.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetAllUsers\\GetAllUsersQueryRequest.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetAllUsers\\GetAllUsersQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:02:33.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllUsersQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetAllUsers\\GetAllUsersQueryResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetAllUsers\\GetAllUsersQueryResponse.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetAllUsers\\GetAllUsersQueryResponse.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AppUser\\GetAllUsers\\GetAllUsersQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:01:54.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetRolesToEndpointQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AuthorizationEndpoint\\GetRolesToEndpoints\\GetRolesToEndpointQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AuthorizationEndpoint\\GetRolesToEndpoints\\GetRolesToEndpointQueryHandler.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AuthorizationEndpoint\\GetRolesToEndpoints\\GetRolesToEndpointQueryHandler.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AuthorizationEndpoint\\GetRolesToEndpoints\\GetRolesToEndpointQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:00:13.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetRolesToEndpointQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AuthorizationEndpoint\\GetRolesToEndpoints\\GetRolesToEndpointQueryRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AuthorizationEndpoint\\GetRolesToEndpoints\\GetRolesToEndpointQueryRequest.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AuthorizationEndpoint\\GetRolesToEndpoints\\GetRolesToEndpointQueryRequest.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AuthorizationEndpoint\\GetRolesToEndpoints\\GetRolesToEndpointQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:58:57.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetRolesToEndpointQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AuthorizationEndpoint\\GetRolesToEndpoints\\GetRolesToEndpointQueryResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AuthorizationEndpoint\\GetRolesToEndpoints\\GetRolesToEndpointQueryResponse.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AuthorizationEndpoint\\GetRolesToEndpoints\\GetRolesToEndpointQueryResponse.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\AuthorizationEndpoint\\GetRolesToEndpoints\\GetRolesToEndpointQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:58:14.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetBasketItemsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryHandler.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:56:23.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetBasketItemsQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryRequest.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryRequest.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:55:52.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetBasketItemsQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryResponse.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryResponse.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T09:05:09.672Z",
+              "WhenOpened": "2025-08-18T13:51:46.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetOrderByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryHandler.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:50:11.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetOrderByIdQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryRequest.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryRequest.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:49:27.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetOrderByIdQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryResponse.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryResponse.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:48:32.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllOrdersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryHandler.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:44:41.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetAllOrdersQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryRequest.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryRequest.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:43:36.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetAllOrdersQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryResponse.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryResponse.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:42:55.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetRolesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoles\\GetRolesQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoles\\GetRolesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoles\\GetRolesQueryHandler.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoles\\GetRolesQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:41:13.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetRolesQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoles\\GetRolesQueryRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoles\\GetRolesQueryRequest.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoles\\GetRolesQueryRequest.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoles\\GetRolesQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:39:50.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetRolesQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoles\\GetRolesQueryResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoles\\GetRolesQueryResponse.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoles\\GetRolesQueryResponse.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoles\\GetRolesQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:39:09.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetRoleByIdQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryResponse.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryResponse.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:32:32.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetRoleByIdQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryRequest.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryRequest.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:31:53.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetRoleByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryHandler.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Role\\GetRoleById\\GetRoleByIdQueryHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:30:53.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetProductImagesQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\ProductImageFile\\GetProductImages\\GetProductImagesQueryResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\ProductImageFile\\GetProductImages\\GetProductImagesQueryResponse.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\ProductImageFile\\GetProductImages\\GetProductImagesQueryResponse.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\ProductImageFile\\GetProductImages\\GetProductImagesQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:28:39.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetProductImagesQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\ProductImageFile\\GetProductImages\\GetProductImagesQueryRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\ProductImageFile\\GetProductImages\\GetProductImagesQueryRequest.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\ProductImageFile\\GetProductImages\\GetProductImagesQueryRequest.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\ProductImageFile\\GetProductImages\\GetProductImagesQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:28:31.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetProductImagesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\ProductImageFile\\GetProductImages\\GetProductImagesQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\ProductImageFile\\GetProductImages\\GetProductImagesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\ProductImageFile\\GetProductImages\\GetProductImagesQueryHandler.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\ProductImageFile\\GetProductImages\\GetProductImagesQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:27:34.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetByIdProductQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryResponse.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryResponse.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:26:47.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetByIdProductQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryRequest.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryRequest.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:26:35.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetByIdProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryHandler.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:25:30.217Z",
               "EditorCaption": ""
             },
             {
@@ -44,32 +529,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserCreateFailedException.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Exceptions\\UserCreateFailedException.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Exceptions\\UserCreateFailedException.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Exceptions\\UserCreateFailedException.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Exceptions\\UserCreateFailedException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T09:03:50.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PasswordChangeFailedException.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Exceptions\\PasswordChangeFailedException.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Exceptions\\PasswordChangeFailedException.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Exceptions\\PasswordChangeFailedException.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Exceptions\\PasswordChangeFailedException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T09:02:54.31Z",
-              "EditorCaption": ""
             }
           ]
         }

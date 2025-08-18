@@ -4,7 +4,7 @@ using P = ECommerce.Domain.Entities;
 
 namespace ECommerce.Application.Features.Queries.Product.GetByIdProduct;
 
-internal class GetByIdProductQueryHandler : IRequestHandler<GetByIdProductQueryRequest, GetByIdProductQueryResponse>
+public class GetByIdProductQueryHandler : IRequestHandler<GetByIdProductQueryRequest, GetByIdProductQueryResponse>
 {
 
     readonly IProductReadRepository _productReadRepository;
