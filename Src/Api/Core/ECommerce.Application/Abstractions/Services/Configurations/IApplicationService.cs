@@ -1,4 +1,5 @@
-﻿using ECommerce.Domain.Entities;
+﻿
+using ECommerce.Application.DTOs.Configuration;
 
 namespace ECommerce.Application.Abstractions.Services.Configurations;
 

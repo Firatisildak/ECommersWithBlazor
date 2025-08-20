@@ -4,6 +4,6 @@ namespace ECommerce.Application.Features.Commands.ProductImageFile.ChangeShowcas
 
 public class ChangeShowcaseImageCommandRequest : IRequest<ChangeShowcaseImageCommandResponse>
 {
-    public string ImageId { get; set; }
-    public string ProductId { get; set; }
+    public string? ImageId { get; set; }
+    public string? ProductId { get; set; }
 }
