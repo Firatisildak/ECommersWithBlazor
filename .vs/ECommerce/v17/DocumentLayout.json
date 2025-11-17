@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E22A2DAE-F781-4240-A2E0-4CE7A5EB22A9}|Src\\Api\\Infrastructure\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\infrastructure\\ecommerce.infrastructure\\services\\configurations\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E22A2DAE-F781-4240-A2E0-4CE7A5EB22A9}|Src\\Api\\Infrastructure\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:src\\api\\infrastructure\\ecommerce.infrastructure\\services\\configurations\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CE5CCEB-CE1B-4E9F-BBF9-7F64521ABC2F}|Src\\Api\\Infrastructure\\ECommerce.SignalR\\ECommerce.SignalR.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\infrastructure\\ecommerce.signalr\\hubservices\\producthubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE5CCEB-CE1B-4E9F-BBF9-7F64521ABC2F}|Src\\Api\\Infrastructure\\ECommerce.SignalR\\ECommerce.SignalR.csproj|solutionrelative:src\\api\\infrastructure\\ecommerce.signalr\\hubservices\\producthubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.application\\abstractions\\services\\configurations\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C45788F-9960-4238-A174-347B90A972B2}|Src\\Api\\Core\\ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:src\\api\\core\\ecommerce.application\\abstractions\\services\\configurations\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CE5CCEB-CE1B-4E9F-BBF9-7F64521ABC2F}|Src\\Api\\Infrastructure\\ECommerce.SignalR\\ECommerce.SignalR.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\infrastructure\\ecommerce.signalr\\hubservices\\orderhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE5CCEB-CE1B-4E9F-BBF9-7F64521ABC2F}|Src\\Api\\Infrastructure\\ECommerce.SignalR\\ECommerce.SignalR.csproj|solutionrelative:src\\api\\infrastructure\\ecommerce.signalr\\hubservices\\orderhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E22A2DAE-F781-4240-A2E0-4CE7A5EB22A9}|Src\\Api\\Infrastructure\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\infrastructure\\ecommerce.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E22A2DAE-F781-4240-A2E0-4CE7A5EB22A9}|Src\\Api\\Infrastructure\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:src\\api\\infrastructure\\ecommerce.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CE5CCEB-CE1B-4E9F-BBF9-7F64521ABC2F}|Src\\Api\\Infrastructure\\ECommerce.SignalR\\ECommerce.SignalR.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\infrastructure\\ecommerce.signalr\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE5CCEB-CE1B-4E9F-BBF9-7F64521ABC2F}|Src\\Api\\Infrastructure\\ECommerce.SignalR\\ECommerce.SignalR.csproj|solutionrelative:src\\api\\infrastructure\\ecommerce.signalr\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE5CCEB-CE1B-4E9F-BBF9-7F64521ABC2F}|Src\\Api\\Infrastructure\\ECommerce.SignalR\\ECommerce.SignalR.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\infrastructure\\ecommerce.signalr\\receivefunctionnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE5CCEB-CE1B-4E9F-BBF9-7F64521ABC2F}|Src\\Api\\Infrastructure\\ECommerce.SignalR\\ECommerce.SignalR.csproj|solutionrelative:src\\api\\infrastructure\\ecommerce.signalr\\receivefunctionnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE5CCEB-CE1B-4E9F-BBF9-7F64521ABC2F}|Src\\Api\\Infrastructure\\ECommerce.SignalR\\ECommerce.SignalR.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\infrastructure\\ecommerce.signalr\\hubregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE5CCEB-CE1B-4E9F-BBF9-7F64521ABC2F}|Src\\Api\\Infrastructure\\ECommerce.SignalR\\ECommerce.SignalR.csproj|solutionrelative:src\\api\\infrastructure\\ecommerce.signalr\\hubregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE5CCEB-CE1B-4E9F-BBF9-7F64521ABC2F}|Src\\Api\\Infrastructure\\ECommerce.SignalR\\ECommerce.SignalR.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\infrastructure\\ecommerce.signalr\\hubs\\producthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE5CCEB-CE1B-4E9F-BBF9-7F64521ABC2F}|Src\\Api\\Infrastructure\\ECommerce.SignalR\\ECommerce.SignalR.csproj|solutionrelative:src\\api\\infrastructure\\ecommerce.signalr\\hubs\\producthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE5CCEB-CE1B-4E9F-BBF9-7F64521ABC2F}|Src\\Api\\Infrastructure\\ECommerce.SignalR\\ECommerce.SignalR.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\infrastructure\\ecommerce.signalr\\hubs\\orderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE5CCEB-CE1B-4E9F-BBF9-7F64521ABC2F}|Src\\Api\\Infrastructure\\ECommerce.SignalR\\ECommerce.SignalR.csproj|solutionrelative:src\\api\\infrastructure\\ecommerce.signalr\\hubs\\orderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D057BC17-8933-4593-A304-D241FD97D117}|Src\\Api\\Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\infrastructure\\ecommerce.persistence\\repositories\\endpoint\\endpointreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D057BC17-8933-4593-A304-D241FD97D117}|Src\\Api\\Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:src\\api\\infrastructure\\ecommerce.persistence\\repositories\\endpoint\\endpointreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D057BC17-8933-4593-A304-D241FD97D117}|Src\\Api\\Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\infrastructure\\ecommerce.persistence\\repositories\\endpoint\\endpointwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D057BC17-8933-4593-A304-D241FD97D117}|Src\\Api\\Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:src\\api\\infrastructure\\ecommerce.persistence\\repositories\\endpoint\\endpointwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\firatisildak\\source\\repos\\ecommerswithblazor\\src\\api\\core\\ecommerce.domain\\entities\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A02EC4-9E81-4B0B-94D4-E81B51ABAE4A}|Src\\Api\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:src\\api\\core\\ecommerce.domain\\entities\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 169,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +62,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IApplicationService.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\Configurations\\IApplicationService.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\Configurations\\IApplicationService.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\Configurations\\IApplicationService.cs",
-              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Application\\Abstractions\\Services\\Configurations\\IApplicationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.SignalR\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Infrastructure\\ECommerce.SignalR\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.SignalR\\ServiceRegistration.cs",
+              "RelativeToolTip": "Src\\Api\\Infrastructure\\ECommerce.SignalR\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T13:35:03.78Z",
+              "WhenOpened": "2025-11-17T12:30:14.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReceiveFunctionNames.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.SignalR\\ReceiveFunctionNames.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Infrastructure\\ECommerce.SignalR\\ReceiveFunctionNames.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.SignalR\\ReceiveFunctionNames.cs",
+              "RelativeToolTip": "Src\\Api\\Infrastructure\\ECommerce.SignalR\\ReceiveFunctionNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T12:29:51.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HubRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.SignalR\\HubRegistration.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Infrastructure\\ECommerce.SignalR\\HubRegistration.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.SignalR\\HubRegistration.cs",
+              "RelativeToolTip": "Src\\Api\\Infrastructure\\ECommerce.SignalR\\HubRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T12:29:16.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationService.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.Infrastructure\\Services\\Configurations\\ApplicationService.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Infrastructure\\ECommerce.Infrastructure\\Services\\Configurations\\ApplicationService.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.Infrastructure\\Services\\Configurations\\ApplicationService.cs",
-              "RelativeToolTip": "Src\\Api\\Infrastructure\\ECommerce.Infrastructure\\Services\\Configurations\\ApplicationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "ProductHubService.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.SignalR\\HubServices\\ProductHubService.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Infrastructure\\ECommerce.SignalR\\HubServices\\ProductHubService.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.SignalR\\HubServices\\ProductHubService.cs",
+              "RelativeToolTip": "Src\\Api\\Infrastructure\\ECommerce.SignalR\\HubServices\\ProductHubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T13:33:20.863Z",
+              "WhenOpened": "2025-11-17T12:09:34.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.Infrastructure\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Src\\Api\\Infrastructure\\ECommerce.Infrastructure\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.Infrastructure\\ServiceRegistration.cs",
-              "RelativeToolTip": "Src\\Api\\Infrastructure\\ECommerce.Infrastructure\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "OrderHubService.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.SignalR\\HubServices\\OrderHubService.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Infrastructure\\ECommerce.SignalR\\HubServices\\OrderHubService.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.SignalR\\HubServices\\OrderHubService.cs",
+              "RelativeToolTip": "Src\\Api\\Infrastructure\\ECommerce.SignalR\\HubServices\\OrderHubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T13:31:44.622Z",
+              "WhenOpened": "2025-11-17T12:09:22.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductHub.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.SignalR\\Hubs\\ProductHub.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Infrastructure\\ECommerce.SignalR\\Hubs\\ProductHub.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.SignalR\\Hubs\\ProductHub.cs",
+              "RelativeToolTip": "Src\\Api\\Infrastructure\\ECommerce.SignalR\\Hubs\\ProductHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T12:02:11.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderHub.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.SignalR\\Hubs\\OrderHub.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Infrastructure\\ECommerce.SignalR\\Hubs\\OrderHub.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.SignalR\\Hubs\\OrderHub.cs",
+              "RelativeToolTip": "Src\\Api\\Infrastructure\\ECommerce.SignalR\\Hubs\\OrderHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:58:47.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\Endpoint.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Core\\ECommerce.Domain\\Entities\\Endpoint.cs",
+              "RelativeToolTip": "Src\\Api\\Core\\ECommerce.Domain\\Entities\\Endpoint.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:35:34.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EndpointWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.Persistence\\Repositories\\Endpoint\\EndpointWriteRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Infrastructure\\ECommerce.Persistence\\Repositories\\Endpoint\\EndpointWriteRepository.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.Persistence\\Repositories\\Endpoint\\EndpointWriteRepository.cs",
+              "RelativeToolTip": "Src\\Api\\Infrastructure\\ECommerce.Persistence\\Repositories\\Endpoint\\EndpointWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:29:36.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EndpointReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.Persistence\\Repositories\\Endpoint\\EndpointReadRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Api\\Infrastructure\\ECommerce.Persistence\\Repositories\\Endpoint\\EndpointReadRepository.cs",
+              "ToolTip": "C:\\Users\\firatisildak\\source\\repos\\ECommersWithBlazor\\Src\\Api\\Infrastructure\\ECommerce.Persistence\\Repositories\\Endpoint\\EndpointReadRepository.cs",
+              "RelativeToolTip": "Src\\Api\\Infrastructure\\ECommerce.Persistence\\Repositories\\Endpoint\\EndpointReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:29:26.11Z",
               "EditorCaption": ""
             }
           ]

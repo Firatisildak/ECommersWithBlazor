@@ -9,8 +9,16 @@ static class Configuration
         get
         {
             ConfigurationManager configurationManager = new();
-            configurationManager.SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../../Presentation/ECommerce.WebApi"));
-            configurationManager.AddJsonFile("appsettings.json");
+            try
+            {
+                configurationManager.SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../../Presentation/ECommerce.WebApi"));
+                configurationManager.AddJsonFile("appsettings.json");
+            }
+            catch
+            {
+                configurationManager.AddJsonFile("appsettings.Production.json");
+            }
+            
             return configurationManager.GetConnectionString("SqlServer");
         }
     }

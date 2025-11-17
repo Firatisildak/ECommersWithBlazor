@@ -1,13 +1,16 @@
 using ECommerce.Application;
+using ECommerce.Application.Abstractions.Services;
 using ECommerce.Application.Validators.Products;
 using ECommerce.Infrastructure;
 using ECommerce.Infrastructure.Filters;
 using ECommerce.Infrastructure.Services.Storage.Local;
 using ECommerce.Persistence;
+using ECommerce.Persistence.Services;
 using FluentValidation.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddHttpContextAccessor();//Client'tan gelen request neticesinde oluþturulan HttpContext nesnesine katmanlardaki class'lar üzerinden(busineess logic) eriþebilmemizi saðlayan bir servistir.
 builder.Services.AddPersistenceServices();
 builder.Services.AddCors(options =>
 {

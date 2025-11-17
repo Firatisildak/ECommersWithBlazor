@@ -207,3 +207,9 @@ C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\EComm
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\obj\Debug\net8.0\ref\ECommerce.WebApi.dll
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\bin\Debug\net8.0\ECommerce.WebApi.staticwebassets.runtime.json
 C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\bin\Debug\net8.0\QRCoder.dll
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\bin\Debug\net8.0\System.Management.dll
+C:\Users\firatisildak\source\repos\ECommersWithBlazor\Src\Api\Presentation\ECommerce.WebApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll

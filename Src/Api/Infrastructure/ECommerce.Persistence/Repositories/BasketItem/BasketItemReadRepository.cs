@@ -1,0 +1,13 @@
+﻿using ECommerce.Application.Repositories;
+using ECommerce.Domain.Entities;
+using ECommerce.Persistence.Contexts;
+
+namespace ECommerce.Persistence.Repositories
+{
+    public class BasketItemReadRepository : ReadRepository<BasketItem>, IBasketItemReadRepository
+    {
+        public BasketItemReadRepository(ECommerceAPIDbContext context) : base(context)
+        {
+        }
+    }
+}
