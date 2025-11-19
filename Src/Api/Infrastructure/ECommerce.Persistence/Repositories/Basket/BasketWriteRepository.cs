@@ -9,6 +9,5 @@ namespace ECommerce.Persistence.Repositories
         public BasketWriteRepository(ECommerceAPIDbContext context) : base(context)
         {
         }
-    {
     }
 }

@@ -11,4 +11,11 @@
     <PackageReference Include="MudBlazor" Version="8.9.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Api\Core\ECommerce.Application\ECommerce.Application.csproj" />
+    <ProjectReference Include="..\..\Api\Infrastructure\ECommerce.Infrastructure\ECommerce.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Api\Infrastructure\ECommerce.Persistence\ECommerce.Persistence.csproj" />
+    <ProjectReference Include="..\..\Api\Infrastructure\ECommerce.SignalR\ECommerce.SignalR.csproj" />
+  </ItemGroup>
+
 </Project>
